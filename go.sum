@@ -1,3 +1,5 @@
+github.com/at-wat/renovate-repro-gomod-dummy v0.0.0-20211025070218-857fe7d90bf1 h1:QKclf9RbXLo9gyvZbIrvh+CFhwYUeRecTqS+CY+n2zU=
+github.com/at-wat/renovate-repro-gomod-dummy v0.0.0-20211025070218-857fe7d90bf1/go.mod h1:jID3uXXzBS+0XfIcy0IKCkhjeEQc9MFanHLw5mGmBZI=
 github.com/seqsense/pcgol v0.0.0-20211020051623-80c7a95f592a h1:9q5fUtW9t1syXIK7deemiwpHxae4oQoyday/ypf+KFc=
 github.com/seqsense/pcgol v0.0.0-20211020051623-80c7a95f592a/go.mod h1:w8LffJCFuzmJsqCRLWNB2SXOVHlEPtHBCHmlisG2w+0=
 github.com/zhuyie/golzf v0.0.0-20161112031142-8387b0307ade/go.mod h1:juNhYdla04C276MyU4zR0BA7t90ziLKPwkjDgddGYV0=
